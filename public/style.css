@@ -1,0 +1,41 @@
+body {
+    background: rgb(132,245,80);
+background: linear-gradient(342deg, rgba(132,245,80,1) 0%, rgba(75,234,231,1) 100%);
+}
+
+.home {
+    border-radius: 10px;
+    color: rgb(85, 255, 0);
+    background-color: rgb(21, 0, 255);
+    }
+
+    .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        border-radius: 40px;
+        text-align: center;
+        text-decoration: none;
+      }
+      
+      .fa-twitter {
+          background: #55ACEE;
+          color: white;
+          size: 100px;
+        }
+        .fa-youtube {
+          background:red;
+          color: white;
+          size: 100px;
+        }
+        .fa-sitemap {
+          background: crimson;
+          color: white;
+          size: 100px;
+        }
+      
+        .fa-github {
+          background: darkslategray;
+          color: white;
+          size: 100px;
+        }
