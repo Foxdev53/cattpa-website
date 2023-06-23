@@ -8,34 +8,47 @@ background: linear-gradient(342deg, rgba(132,245,80,1) 0%, rgba(75,234,231,1) 10
     color: rgb(85, 255, 0);
     background-color: rgb(21, 0, 255);
     }
-
-    .fa {
-        padding: 20px;
-        font-size: 30px;
-        width: 50px;
-        border-radius: 40px;
-        text-align: center;
-        text-decoration: none;
-      }
-      
-      .fa-twitter {
-          background: #55ACEE;
-          color: white;
-          size: 100px;
-        }
-        .fa-youtube {
-          background:red;
-          color: white;
-          size: 100px;
-        }
-        .fa-sitemap {
-          background: crimson;
-          color: white;
-          size: 100px;
-        }
-      
-        .fa-github {
-          background: darkslategray;
-          color: white;
-          size: 100px;
-        }
+    header {
+      padding-bottom: 10px;
+      background: green;
+  }
+  
+  .logo {
+      height: 50px;
+      width: 50px;
+      padding-left: 5px;
+      padding-top: 5px;
+  }
+  
+  a {
+      padding-right: 7px;
+      padding-left: 7px;
+  }
+  
+  .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+    }
+    
+    .fa:hover {
+      background: lightseagreen;
+      opacity: 0.7;
+    }
+  
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+  
+    .fa-youtube {
+      background: red;
+      color: white;
+    }
+  
+    .fa-sitemap {
+      background: crimson;
+      color: white;
+    }

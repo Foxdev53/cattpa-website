@@ -13,3 +13,19 @@ body {
     height: 500px;
     width:700px;
 }
+header {
+    padding-bottom: 10px;
+    background: green;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+a {
+    padding-right: 7px;
+    padding-left: 7px;
+}
