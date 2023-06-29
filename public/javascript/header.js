@@ -15,7 +15,7 @@ class Header extends HTMLElement {
      <a href="cattpastaff.html">Staff of cattpa</a>
      </span>
      <span>
-     <a href="publicrecords/prhome.html">Public records</a>
+     <a href="/publicrecords/prhome.html">Public records</a>
      </span>
       </header>
       
