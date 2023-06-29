@@ -7,7 +7,7 @@ class Header extends HTMLElement {
       this.innerHTML = `
 
       <header>
-      <img src="public/img/Logo.png" alt="Logo" class="logo">
+      <img src="/public/img/Logo.png" alt="Logo" class="logo">
     <span>
      <a href="index.html">Home</a>
      </span>
