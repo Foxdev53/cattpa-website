@@ -1,0 +1,15 @@
+body {
+    background: rgb(234, 151, 75);
+    background: linear-gradient(342deg, rgba(234, 151, 75, 1) 0%, rgba(80, 245, 209, 1) 100%);
+}
+
+.main {
+    border-radius: 10px;
+    color: magenta;
+    background-color: cyan;
+    }
+
+.document {
+    height: 500px;
+    width:700px;
+}
